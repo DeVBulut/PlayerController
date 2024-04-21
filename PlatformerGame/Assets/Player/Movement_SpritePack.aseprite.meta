@@ -1,0 +1,5052 @@
+fileFormatVersion: 2
+guid: ce949bf317b468e4890c73efffdec88c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638491828708659150
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Movement_SpritePack_Frame_84
+    originalName: 
+    pivot: {x: 0.45714286, y: -1.0465117}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 790
+      width: 35
+      height: 43
+    spriteID: 4bc61819d3cb6484f8fd95495c6d983e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 790}
+  - name: Movement_SpritePack_Frame_85
+    originalName: 
+    pivot: {x: 0.4864865, y: -1.0714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 361
+      width: 37
+      height: 42
+    spriteID: aaa26155eb57df546b103bcd5ed3bfb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 361}
+  - name: Movement_SpritePack_Frame_86
+    originalName: 
+    pivot: {x: 0.3548387, y: -1.0227273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 576
+      width: 31
+      height: 44
+    spriteID: a515897cc7a9955468499dfb0a0806f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 576}
+  - name: Movement_SpritePack_Frame_87
+    originalName: 
+    pivot: {x: 0.37931034, y: -0.9782609}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 821
+      width: 29
+      height: 46
+    spriteID: 32e78cc2243db7e4885a9801b0bdf9cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 821}
+  - name: Movement_SpritePack_Frame_88
+    originalName: 
+    pivot: {x: 0.36666667, y: -0.9782609}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 332
+      width: 30
+      height: 46
+    spriteID: 540979286bad76244befd9b570a1dec0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 332}
+  - name: Movement_SpritePack_Frame_0
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 321
+      width: 31
+      height: 42
+    spriteID: ae08b0f7f995c6144a2247aa7f9fc314
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 321}
+  - name: Movement_SpritePack_Frame_1
+    originalName: 
+    pivot: {x: 0.36666667, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 549
+      width: 30
+      height: 42
+    spriteID: 18bd2e431bf9a654b94e3b8cc20e29e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 549}
+  - name: Movement_SpritePack_Frame_2
+    originalName: 
+    pivot: {x: 0.40000004, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 599
+      width: 30
+      height: 42
+    spriteID: d6a5e21b7a278ff41816604137a7ef5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 599}
+  - name: Movement_SpritePack_Frame_3
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 726
+      width: 27
+      height: 43
+    spriteID: 09359ec923c7b1a44ad8b081b494b319
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 726}
+  - name: Movement_SpritePack_Frame_4
+    originalName: 
+    pivot: {x: 0.35714287, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 382
+      width: 28
+      height: 43
+    spriteID: 9e891c2d12aaf2649ab5a99bda9505bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 382}
+  - name: Movement_SpritePack_Frame_5
+    originalName: 
+    pivot: {x: 0.36666667, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 900
+      width: 30
+      height: 43
+    spriteID: 72aa7b9be4fef734291add67b7919f3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 900}
+  - name: Movement_SpritePack_Frame_6
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 371
+      width: 31
+      height: 42
+    spriteID: 8f5fb3c1f07b50145a53b0b3cf5b5024
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 371}
+  - name: Movement_SpritePack_Frame_7
+    originalName: 
+    pivot: {x: 0.36666667, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 649
+      width: 30
+      height: 42
+    spriteID: 5cb694ced00f81945a716b095dc80dfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 649}
+  - name: Movement_SpritePack_Frame_8
+    originalName: 
+    pivot: {x: 0.25, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 740
+      width: 36
+      height: 42
+    spriteID: ffb9e63b2a1a9d24ba81fca59d37d821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 740}
+  - name: Movement_SpritePack_Frame_9
+    originalName: 
+    pivot: {x: 0.23076923, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 583
+      width: 39
+      height: 42
+    spriteID: 8ec0bd910d84c1042b5e22e1ae6841a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 583}
+  - name: Movement_SpritePack_Frame_10
+    originalName: 
+    pivot: {x: 0.23076923, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 827
+      width: 39
+      height: 41
+    spriteID: 1585f4871dcad3649a65ca9a9da3587c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 827}
+  - name: Movement_SpritePack_Frame_11
+    originalName: 
+    pivot: {x: 0.25, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 934
+      width: 36
+      height: 41
+    spriteID: bbbc64c1093f97f4b81c248183b86736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 934}
+  - name: Movement_SpritePack_Frame_12
+    originalName: 
+    pivot: {x: 0.2631579, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 38
+      height: 41
+    spriteID: f756c2839dcca00478821b40721e015a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Movement_SpritePack_Frame_13
+    originalName: 
+    pivot: {x: 0.2702703, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 411
+      width: 37
+      height: 42
+    spriteID: f54a18693a0225a438036a8480793296
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 411}
+  - name: Movement_SpritePack_Frame_14
+    originalName: 
+    pivot: {x: 0.29411766, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 106
+      width: 34
+      height: 43
+    spriteID: 8693d8fd3a015d349a5aec8587e960bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 106}
+  - name: Movement_SpritePack_Frame_15
+    originalName: 
+    pivot: {x: 0.34375, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 386
+      width: 32
+      height: 43
+    spriteID: 44a4ef90633d1f54bad4b4e96be1ef98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 386}
+  - name: Movement_SpritePack_Frame_16
+    originalName: 
+    pivot: {x: 0.34375, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 437
+      width: 32
+      height: 43
+    spriteID: 97f24c061179bbe4aaf1adf9c26a1a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 437}
+  - name: Movement_SpritePack_Frame_17
+    originalName: 
+    pivot: {x: 0.34375, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 771
+      width: 32
+      height: 42
+    spriteID: 8268bd7fd67964348978b891042c8f01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 771}
+  - name: Movement_SpritePack_Frame_18
+    originalName: 
+    pivot: {x: 0.34375, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 219
+      width: 32
+      height: 41
+    spriteID: a89aa8263a0ddb042ac2b088d1b1d195
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 219}
+  - name: Movement_SpritePack_Frame_19
+    originalName: 
+    pivot: {x: 0.3548387, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 964
+      width: 31
+      height: 40
+    spriteID: 9dcf95606c274a14daf4dacab657c4de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 964}
+  - name: Movement_SpritePack_Frame_20
+    originalName: 
+    pivot: {x: 0.32258064, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 4
+      width: 31
+      height: 40
+    spriteID: 6d1f719dffe972448a496083b622ad47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 4}
+  - name: Movement_SpritePack_Frame_21
+    originalName: 
+    pivot: {x: 0.27272728, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 722
+      width: 33
+      height: 41
+    spriteID: c30e52995392a9e4b939fb8e22054a03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 722}
+  - name: Movement_SpritePack_Frame_22
+    originalName: 
+    pivot: {x: 0.20512821, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 633
+      width: 39
+      height: 42
+    spriteID: 44ca0b2cbad2b7349a64ed758e9db455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 633}
+  - name: Movement_SpritePack_Frame_23
+    originalName: 
+    pivot: {x: 0.2, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 220
+      width: 40
+      height: 43
+    spriteID: 6601b5dfc3d29a94eb0841f6556e18b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 220}
+  - name: Movement_SpritePack_Frame_24
+    originalName: 
+    pivot: {x: 0.2, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 271
+      width: 40
+      height: 43
+    spriteID: e61ca38b547b12546a7f98d49bf156ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 271}
+  - name: Movement_SpritePack_Frame_25
+    originalName: 
+    pivot: {x: 0.21052632, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 683
+      width: 38
+      height: 43
+    spriteID: dfbedc0a957686d4f9c3f88ad86f567c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 683}
+  - name: Movement_SpritePack_Frame_26
+    originalName: 
+    pivot: {x: 0.22500001, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 449
+      width: 40
+      height: 42
+    spriteID: c91b1eeda3c2cfb45a719eed75b6311e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 449}
+  - name: Movement_SpritePack_Frame_27
+    originalName: 
+    pivot: {x: 0.19512194, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 170
+      width: 41
+      height: 42
+    spriteID: 0271be75f0a22eb45a08ddfa6725fc74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 170}
+  - name: Movement_SpritePack_Frame_28
+    originalName: 
+    pivot: {x: 0.1891892, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 461
+      width: 37
+      height: 42
+    spriteID: 28355c9991c39b841ad12f5ed28bc948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 461}
+  - name: Movement_SpritePack_Frame_29
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 421
+      width: 31
+      height: 42
+    spriteID: d1e4b50dd27dc8b4d8c196e111633f9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 421}
+  - name: Movement_SpritePack_Frame_30
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 471
+      width: 31
+      height: 42
+    spriteID: 9d415603f115be54f911bb3e263a86df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 471}
+  - name: Movement_SpritePack_Frame_31
+    originalName: 
+    pivot: {x: 0.3448276, y: -1.1707318}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 433
+      width: 29
+      height: 41
+    spriteID: 275e50fecbb98a04c959caa4b764ca30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 433}
+  - name: Movement_SpritePack_Frame_32
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 40
+      width: 33
+      height: 39
+    spriteID: 201f80779da12d54986e1853b20d49eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 40}
+  - name: Movement_SpritePack_Frame_33
+    originalName: 
+    pivot: {x: 0.4047619, y: -1.3513514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 511
+      width: 42
+      height: 37
+    spriteID: bcd2cab5bdf4ccb4583fbe64ba06c378
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 511}
+  - name: Movement_SpritePack_Frame_34
+    originalName: 
+    pivot: {x: 0.35897437, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 841
+      width: 39
+      height: 38
+    spriteID: c46905130d116734cb2a4c4f8998b261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 841}
+  - name: Movement_SpritePack_Frame_35
+    originalName: 
+    pivot: {x: 0.35135135, y: -1.2972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 488
+      width: 37
+      height: 37
+    spriteID: 913143ef8abe2224ab1cf6c8cb72cd7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 488}
+  - name: Movement_SpritePack_Frame_36
+    originalName: 
+    pivot: {x: 0.34285715, y: -1.2972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 721
+      width: 35
+      height: 37
+    spriteID: deabe3f79af0e1d4f835a6b6e68b8558
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 721}
+  - name: Movement_SpritePack_Frame_37
+    originalName: 
+    pivot: {x: 0.3846154, y: -1.3513514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 157
+      width: 39
+      height: 37
+    spriteID: fbe52f70b0201aa4ea33bb641e4e3412
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 157}
+  - name: Movement_SpritePack_Frame_38
+    originalName: 
+    pivot: {x: 0.39473686, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 887
+      width: 38
+      height: 39
+    spriteID: 7e7b100e58d1572439508ea7937076d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 887}
+  - name: Movement_SpritePack_Frame_39
+    originalName: 
+    pivot: {x: 0.41463414, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 41
+      height: 38
+    spriteID: 0294a2a9359c5cb469d929599639a254
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 269}
+  - name: Movement_SpritePack_Frame_40
+    originalName: 
+    pivot: {x: 0.41463414, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 315
+      width: 41
+      height: 38
+    spriteID: 004bd7597f4f9e84ead7623d6fbe5b32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 315}
+  - name: Movement_SpritePack_Frame_41
+    originalName: 
+    pivot: {x: 0.26666668, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 632
+      width: 30
+      height: 39
+    spriteID: b0ad6c23bc2f6674c93916af4308d66c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 632}
+  - name: Movement_SpritePack_Frame_42
+    originalName: 
+    pivot: {x: 0.36363637, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 87
+      width: 33
+      height: 39
+    spriteID: 5a3170d66c2d96140abf6ad01383d177
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 87}
+  - name: Movement_SpritePack_Frame_46
+    originalName: 
+    pivot: {x: 0.36363637, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 134
+      width: 33
+      height: 39
+    spriteID: 6026f33dda2cbef41afc1e766fb4a8cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 134}
+  - name: Movement_SpritePack_Frame_50
+    originalName: 
+    pivot: {x: 0.48387095, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 100
+      width: 31
+      height: 39
+    spriteID: 00c028b90da8953459b494ad22fcab2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 100}
+  - name: Movement_SpritePack_Frame_51
+    originalName: 
+    pivot: {x: 0.46875, y: -1.3513514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 88
+      width: 32
+      height: 37
+    spriteID: 451b2c22240a3a44ea17281cac037d48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 88}
+  - name: Movement_SpritePack_Frame_52
+    originalName: 
+    pivot: {x: 0.43333337, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 777
+      width: 30
+      height: 38
+    spriteID: d6b0df3b8820dff4aba205f008ee7bd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 777}
+  - name: Movement_SpritePack_Frame_53
+    originalName: 
+    pivot: {x: 0.40000004, y: -1.2972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 319
+      width: 30
+      height: 37
+    spriteID: 73e9b37eb4926a84a91a93a830a3a94a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 319}
+  - name: Movement_SpritePack_Frame_54
+    originalName: 
+    pivot: {x: 0.40000004, y: -1.2972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 364
+      width: 30
+      height: 37
+    spriteID: 6e714f34f6f6f8f4a9eed09e0a912913
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 364}
+  - name: Movement_SpritePack_Frame_55
+    originalName: 
+    pivot: {x: 0.4375, y: -1.3513514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 133
+      width: 32
+      height: 37
+    spriteID: 1903557cb0a1e8e4f9b43eb8940e6720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 133}
+  - name: Movement_SpritePack_Frame_56
+    originalName: 
+    pivot: {x: 0.4516129, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 147
+      width: 31
+      height: 39
+    spriteID: 09d829d1005d1764c932afc2094cd8fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 147}
+  - name: Movement_SpritePack_Frame_57
+    originalName: 
+    pivot: {x: 0.4074074, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 828
+      width: 27
+      height: 38
+    spriteID: 17fb385ea966553458f48f377fd21151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 828}
+  - name: Movement_SpritePack_Frame_58
+    originalName: 
+    pivot: {x: 0.51724136, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 507
+      width: 29
+      height: 38
+    spriteID: 864a453d7df8fcb4bb46c6f6cec9db36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 507}
+  - name: Movement_SpritePack_Frame_59
+    originalName: 
+    pivot: {x: 0.53125, y: -1.3513514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 178
+      width: 32
+      height: 37
+    spriteID: 6d3124e89bdce6940a220eadd2650222
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 178}
+  - name: Movement_SpritePack_Frame_62
+    originalName: 
+    pivot: {x: 0.51428574, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 284
+      width: 35
+      height: 40
+    spriteID: 06717c9b0a14f514797923e4723efb9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 284}
+  - name: Movement_SpritePack_Frame_63
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 194
+      width: 31
+      height: 39
+    spriteID: 1a5688337119d7644ade415952a262fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 194}
+  - name: Movement_SpritePack_Frame_64
+    originalName: 
+    pivot: {x: 0.43333337, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 823
+      width: 30
+      height: 38
+    spriteID: f07019d5b36c3264bacc1ba9b1c03928
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 823}
+  - name: Movement_SpritePack_Frame_65
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 181
+      width: 33
+      height: 39
+    spriteID: 93500b9066185784480810df293ecd54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 181}
+  - name: Movement_SpritePack_Frame_66
+    originalName: 
+    pivot: {x: 0.29032257, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 241
+      width: 31
+      height: 39
+    spriteID: 7b9bccaf292713b4588ebbc75fb48177
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 241}
+  - name: Movement_SpritePack_Frame_67
+    originalName: 
+    pivot: {x: 0.36363637, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 228
+      width: 33
+      height: 39
+    spriteID: 777465f3eb5cfc84a96737c2e6e7b4ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 228}
+  - name: Movement_SpritePack_Frame_72
+    originalName: 
+    pivot: {x: 0.2962963, y: -1.1463414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 409
+      width: 27
+      height: 41
+    spriteID: 117fa4c6f17885447af5b77135f2ecd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 409}
+  - name: Movement_SpritePack_Frame_73
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 521
+      width: 31
+      height: 42
+    spriteID: 55cda2bdff247d24cac9a874d4a0aac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 521}
+  - name: Movement_SpritePack_Frame_74
+    originalName: 
+    pivot: {x: 0.37931034, y: -1.0444444}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 268
+      width: 29
+      height: 45
+    spriteID: e8f66b3901e81f44595ed6e3ad8fe460
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 268}
+  - name: Movement_SpritePack_Frame_75
+    originalName: 
+    pivot: {x: 0.35714287, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 482
+      width: 28
+      height: 42
+    spriteID: ec88e194387c62849a335936185b3b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 482}
+  - name: Movement_SpritePack_Frame_76
+    originalName: 
+    pivot: {x: 0.35714287, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 532
+      width: 28
+      height: 42
+    spriteID: 348c181549668d14c89862c3cca3331c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 532}
+  - name: Movement_SpritePack_Frame_77
+    originalName: 
+    pivot: {x: 0.35714287, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 582
+      width: 28
+      height: 42
+    spriteID: 3d6c29b65fd85594ea33dd98a4c3b12f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 582}
+  - name: Movement_SpritePack_Frame_78
+    originalName: 
+    pivot: {x: 0.37931034, y: -1.139535}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 913
+      width: 29
+      height: 43
+    spriteID: 44b8c37d063ca094d8119307d9eb53de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 913}
+  - name: Movement_SpritePack_Frame_79
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1136364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 628
+      width: 31
+      height: 44
+    spriteID: 2f0b5e41a870b934f8bee65c3accd06b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 628}
+  - name: Movement_SpritePack_Frame_80
+    originalName: 
+    pivot: {x: 0.45945948, y: -1.1136364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 734
+      width: 37
+      height: 44
+    spriteID: 06fc08ec54d3c6f4cbfbc132eb7e8505
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 734}
+  - name: Movement_SpritePack_Frame_81
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.088889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 917
+      width: 35
+      height: 45
+    spriteID: 3e85c794eb9cbee46a940977fa11e032
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 917}
+  - name: Movement_SpritePack_Frame_82
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.088889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 970
+      width: 35
+      height: 45
+    spriteID: fc1ef6bf6cc4e2f4589f445b04c3c7d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 970}
+  - name: Movement_SpritePack_Frame_83
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.1136364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 556
+      width: 35
+      height: 44
+    spriteID: 85a026fefe3561c46b4f4edbaed0905e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 556}
+  - name: Movement_SpritePack_Frame_89
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 275
+      width: 33
+      height: 39
+    spriteID: aeeb92da36c1b724288e3cc1a38cdab6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 275}
+  - name: Movement_SpritePack_Frame_90
+    originalName: 
+    pivot: {x: 0.2580645, y: -1.1463414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 500
+      width: 31
+      height: 41
+    spriteID: c1682114dbd66584cbd8db1a2b517f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 500}
+  - name: Movement_SpritePack_Frame_91
+    originalName: 
+    pivot: {x: 0.4, y: -1.2894738}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 919
+      width: 35
+      height: 38
+    spriteID: 4d3243f1a0a38e34abeb6dc3c46f1cdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 919}
+  - name: Movement_SpritePack_Frame_92
+    originalName: 
+    pivot: {x: 0.65000004, y: -1.2051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 40
+      height: 39
+    spriteID: c6242e6c7ccf0ad4b97fc4b40161a7ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 173}
+  - name: Movement_SpritePack_Frame_93
+    originalName: 
+    pivot: {x: 0.5405406, y: -1.4166666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 875
+      width: 37
+      height: 36
+    spriteID: 60b87262eb1961d4e9c25c8dab7efb0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 875}
+  - name: Movement_SpritePack_Frame_94
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 52
+      width: 31
+      height: 40
+    spriteID: b3e1aec1407cb9c4684a185e5d60e7d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 52}
+  - name: Movement_SpritePack_Frame_95
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 874
+      width: 31
+      height: 33
+    spriteID: b6411f0d248c872429da064c16b1c014
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 874}
+  - name: Movement_SpritePack_Frame_96
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 915
+      width: 31
+      height: 33
+    spriteID: 7bea24d2f9151c5458e9fc6b94d9c85d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 915}
+  - name: Movement_SpritePack_Frame_97
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 956
+      width: 31
+      height: 33
+    spriteID: 8e770d5f510264540a32f6d96d59cdb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 956}
+  - name: Movement_SpritePack_Frame_98
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 39
+      width: 31
+      height: 33
+    spriteID: f7cc2458f9216e5498724953fc605160
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 39}
+  - name: Movement_SpritePack_Frame_99
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 80
+      width: 31
+      height: 33
+    spriteID: ac1d2a078e6353b4d906b30e536c1d18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 80}
+  - name: Movement_SpritePack_Frame_100
+    originalName: 
+    pivot: {x: 0.22580644, y: -1.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 121
+      width: 31
+      height: 33
+    spriteID: bc91bc9b0de4b944a8a325d49bbd386d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 121}
+  - name: Movement_SpritePack_Frame_101
+    originalName: 
+    pivot: {x: 0.20000002, y: -1.6774193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 280
+      width: 30
+      height: 31
+    spriteID: a0aeb72047fbb8646b2ca2603019fb9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 280}
+  - name: Movement_SpritePack_Frame_102
+    originalName: 
+    pivot: {x: 0.20689654, y: -1.6000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 541
+      width: 29
+      height: 30
+    spriteID: 9606776ad4188b046b27c88235538cc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 541}
+  - name: Movement_SpritePack_Frame_103
+    originalName: 
+    pivot: {x: 0.4117647, y: -1.7777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 398
+      width: 34
+      height: 27
+    spriteID: 4c4d1e20d005460418dbd46bcf9c8973
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 398}
+  - name: Movement_SpritePack_Frame_104
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.7142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 699
+      width: 45
+      height: 28
+    spriteID: 8f6d8d993ab9cd645ad0eb25248ceafe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 699}
+  - name: Movement_SpritePack_Frame_105
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.5517241}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 463
+      width: 44
+      height: 29
+    spriteID: 885165e20e32f514daec092b29bb8467
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 463}
+  - name: Movement_SpritePack_Frame_106
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.5666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 553
+      width: 36
+      height: 30
+    spriteID: 96b5351d23fd9d74ea4acc460137ebf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 553}
+  - name: Movement_SpritePack_Frame_107
+    originalName: 
+    pivot: {x: 0.35999998, y: -1.6428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 687
+      width: 25
+      height: 28
+    spriteID: a237cb1c2b8bfac4ab70dd780dd52a9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 687}
+  - name: Movement_SpritePack_Frame_108
+    originalName: 
+    pivot: {x: 0.39285716, y: -1.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 723
+      width: 28
+      height: 25
+    spriteID: a1154e990c759ef47b69b2f1f869f07b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 723}
+  - name: Movement_SpritePack_Frame_109
+    originalName: 
+    pivot: {x: 0.4375, y: -1.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 618
+      width: 32
+      height: 27
+    spriteID: a1799e8508b1ece43b066d6797ad6d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 618}
+  - name: Movement_SpritePack_Frame_110
+    originalName: 
+    pivot: {x: 0.4074074, y: -1.2424242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 465
+      width: 27
+      height: 33
+    spriteID: 05a5580cfb782ff448c783d7fa63ab1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 465}
+  - name: Movement_SpritePack_Frame_111
+    originalName: 
+    pivot: {x: 0.4074074, y: -1.076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 687
+      width: 27
+      height: 39
+    spriteID: 52f576b7f4a848d43ba9f37f5e0a9745
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 687}
+  - name: Movement_SpritePack_Frame_112
+    originalName: 
+    pivot: {x: 0.3214286, y: -1.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 963
+      width: 28
+      height: 40
+    spriteID: 596bdf2ea0e182846bc6c1db97f7f9cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 963}
+  - name: Movement_SpritePack_Frame_113
+    originalName: 
+    pivot: {x: 0.36666667, y: -1.1162791}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 951
+      width: 30
+      height: 43
+    spriteID: 56bdc188e9a3b2b43a2612a02f523c05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 951}
+  - name: Movement_SpritePack_Frame_114
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 571
+      width: 31
+      height: 42
+    spriteID: 2c817b480935dbe48a6e982d7e4b2088
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 571}
+  - name: Movement_SpritePack_Frame_115
+    originalName: 
+    pivot: {x: 0.3214286, y: -1.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 223
+      width: 28
+      height: 40
+    spriteID: c078e311dbd404044a226673c2a8e4d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 223}
+  - name: Movement_SpritePack_Frame_116
+    originalName: 
+    pivot: {x: 0.3214286, y: -1.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 357
+      width: 28
+      height: 33
+    spriteID: 2e9d0568383adf74aba18da3b6604a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 357}
+  - name: Movement_SpritePack_Frame_128
+    originalName: 
+    pivot: {x: 0.3214286, y: -1.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 271
+      width: 28
+      height: 40
+    spriteID: 90c15d23afba3764495a1145323a219d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 271}
+  - name: Movement_SpritePack_Frame_129
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 621
+      width: 31
+      height: 42
+    spriteID: dbcf95e00a319464292b784fcb7e0a74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 621}
+  - name: Movement_SpritePack_Frame_130
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 322
+      width: 33
+      height: 39
+    spriteID: f29fc724a3173cf4e885ba49aad35099
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 322}
+  - name: Movement_SpritePack_Frame_131
+    originalName: 
+    pivot: {x: 0.53999996, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 86
+      width: 50
+      height: 35
+    spriteID: e31d13ec07278ab46aac75b76f1371f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 86}
+  - name: Movement_SpritePack_Frame_132
+    originalName: 
+    pivot: {x: 0.53061223, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 93
+      width: 49
+      height: 32
+    spriteID: 5ee13cf99c2a9ec4d8b7bac17cd9f367
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 93}
+  - name: Movement_SpritePack_Frame_133
+    originalName: 
+    pivot: {x: 0.53061223, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 786
+      width: 49
+      height: 33
+    spriteID: 083704ef9033e974f88974d26d4a34b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 786}
+  - name: Movement_SpritePack_Frame_134
+    originalName: 
+    pivot: {x: 0.53061223, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 133
+      width: 49
+      height: 32
+    spriteID: 1cc52ca9150345449b705f0a4d27e0b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 133}
+  - name: Movement_SpritePack_Frame_135
+    originalName: 
+    pivot: {x: 0.625, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 608
+      width: 48
+      height: 32
+    spriteID: 01d7249f215fe764db9a68a17bfd37c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 608}
+  - name: Movement_SpritePack_Frame_136
+    originalName: 
+    pivot: {x: 0.5769231, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 44
+      width: 52
+      height: 34
+    spriteID: 98085e64f7576c24ba5d3245d24b999b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 44}
+  - name: Movement_SpritePack_Frame_139
+    originalName: 
+    pivot: {x: 0.6538462, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 322
+      width: 52
+      height: 33
+    spriteID: ab787de2c33667545986756f3f317707
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 322}
+  - name: Movement_SpritePack_Frame_140
+    originalName: 
+    pivot: {x: 0.58536583, y: -1.2972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 695
+      width: 41
+      height: 37
+    spriteID: 477eab0c8a929a449aeed84a29e25961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 695}
+  - name: Movement_SpritePack_Frame_141
+    originalName: 
+    pivot: {x: 0.38709676, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 671
+      width: 31
+      height: 42
+    spriteID: e9ff99ef954826942a139ce0ab17ab09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 671}
+  - name: Movement_SpritePack_Frame_154
+    originalName: 
+    pivot: {x: 0.68, y: -1.3823531}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 363
+      width: 50
+      height: 34
+    spriteID: 597cf5a277c30ad4fbb2ae67061b9687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 363}
+  - name: Movement_SpritePack_Frame_155
+    originalName: 
+    pivot: {x: 0.67346936, y: -1.2368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 49
+      height: 38
+    spriteID: 8a31d5037998e174b8995861d2bf1b79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Movement_SpritePack_Frame_156
+    originalName: 
+    pivot: {x: 0.65957445, y: -1.3055556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 405
+      width: 47
+      height: 36
+    spriteID: 5b5bf004024ffa348ba9a3001569869a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 405}
+  - name: Movement_SpritePack_Frame_157
+    originalName: 
+    pivot: {x: 0.6666667, y: -1.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 876
+      width: 48
+      height: 33
+    spriteID: dc08418d7126b1344a506f650f08d910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 876}
+  - name: Movement_SpritePack_Frame_158
+    originalName: 
+    pivot: {x: 0.67346936, y: -1.3823531}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 499
+      width: 49
+      height: 34
+    spriteID: 4f365648881d51646af2e23efa0926c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 499}
+  - name: Movement_SpritePack_Frame_161
+    originalName: 
+    pivot: {x: 0.2962963, y: -1.1463414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 458
+      width: 27
+      height: 41
+    spriteID: 59a70323090745048b77522d6277c743
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 458}
+  - name: Movement_SpritePack_Frame_162
+    originalName: 
+    pivot: {x: 0.3030303, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 369
+      width: 33
+      height: 39
+    spriteID: 30967e2c669661c488650386d8034c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 369}
+  - name: Movement_SpritePack_Frame_163
+    originalName: 
+    pivot: {x: 0.61290324, y: -1.6000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 319
+      width: 31
+      height: 30
+    spriteID: 3ec6430d98d0e0340a526d444c37afab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 319}
+  - name: Movement_SpritePack_Frame_164
+    originalName: 
+    pivot: {x: 0.6052632, y: -1.2424242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 778
+      width: 38
+      height: 33
+    spriteID: 93611a988051da94ca151c606ca9893b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 778}
+  - name: Movement_SpritePack_Frame_165
+    originalName: 
+    pivot: {x: 0.6666667, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 4
+      width: 57
+      height: 32
+    spriteID: e64c4c1da8fffcc47ac89150adf17ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 4}
+  - name: Movement_SpritePack_Frame_166
+    originalName: 
+    pivot: {x: 0.7288136, y: -1.8800001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 73
+      width: 59
+      height: 25
+    spriteID: a0e2f52abb8c7c540b21332997b04df6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 73}
+  - name: Movement_SpritePack_Frame_167
+    originalName: 
+    pivot: {x: 0.73333335, y: -1.7407408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 60
+      height: 27
+    spriteID: a16f092f7d51bf04a96d417c71de1d6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 4}
+  - name: Movement_SpritePack_Frame_168
+    originalName: 
+    pivot: {x: 0.7288136, y: -1.8076924}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 39
+      width: 59
+      height: 26
+    spriteID: a65cced674b466f48859e96e41520a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 39}
+  - name: Movement_SpritePack_Frame_172
+    originalName: 
+    pivot: {x: 0.4375, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 819
+      width: 32
+      height: 39
+    spriteID: 70cfdfe0193e2764a8ef1107941228b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 819}
+  - name: Movement_SpritePack_Frame_44
+    originalName: 
+    pivot: {x: 0.37931034, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 869
+      width: 29
+      height: 39
+    spriteID: 90ead0ecb9af1634ca6b6f1b78bd8e9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 869}
+  - name: Movement_SpritePack_Frame_48
+    originalName: 
+    pivot: {x: 0.37931034, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 916
+      width: 29
+      height: 39
+    spriteID: 8fe3bda0c82a61f4990cf154754979dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 916}
+  - name: Movement_SpritePack_Frame_68
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 734
+      width: 27
+      height: 39
+    spriteID: 0ddd7e3177dbfa54680608d6b4fa5630
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 734}
+  - name: Movement_SpritePack_Frame_71
+    originalName: 
+    pivot: {x: 0.48387095, y: -1.2051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 288
+      width: 31
+      height: 39
+    spriteID: c6bcc653a79aef04bac2e2981bc29d8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 288}
+  - name: Movement_SpritePack_Frame_117
+    originalName: 
+    pivot: {x: 0.1904762, y: -1.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 425
+      y: 4
+      width: 42
+      height: 24
+    spriteID: 65578c062c533d8449109b6286f5d716
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 4}
+  - name: Movement_SpritePack_Frame_118
+    originalName: 
+    pivot: {x: 0.21052632, y: -1.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 433
+      width: 38
+      height: 24
+    spriteID: f002ee9476dc29849b471b3676a54871
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 433}
+  - name: Movement_SpritePack_Frame_119
+    originalName: 
+    pivot: {x: 0.29032257, y: -1.6923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 653
+      width: 31
+      height: 26
+    spriteID: f2111dc264c085c4db59fe5a8b520b9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 653}
+  - name: Movement_SpritePack_Frame_120
+    originalName: 
+    pivot: {x: 0.24242425, y: -1.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 506
+      width: 33
+      height: 27
+    spriteID: 4717fbdbdf2a38f46befde1253654461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 506}
+  - name: Movement_SpritePack_Frame_121
+    originalName: 
+    pivot: {x: 0.4117647, y: -1.4999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 244
+      width: 34
+      height: 28
+    spriteID: d6cc74e3040c5444db81047dd4f47b0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 244}
+  - name: Movement_SpritePack_Frame_122
+    originalName: 
+    pivot: {x: 0.46153846, y: -1.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 4
+      width: 39
+      height: 27
+    spriteID: 7f431a1f496ecb346a45847f2a19595d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 4}
+  - name: Movement_SpritePack_Frame_123
+    originalName: 
+    pivot: {x: 0.3214286, y: -1.3225806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 579
+      width: 28
+      height: 31
+    spriteID: a5301686027d06547a1628e7af978141
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 579}
+  - name: Movement_SpritePack_Frame_124
+    originalName: 
+    pivot: {x: 0.37931034, y: -1.3235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 202
+      width: 29
+      height: 34
+    spriteID: b7ad38b2752097a40887d3f0cf775d76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 202}
+  - name: Movement_SpritePack_Frame_125
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 735
+      width: 36
+      height: 35
+    spriteID: 857f4e7ff00721a49b37b1ab3ff538dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 735}
+  - name: Movement_SpritePack_Frame_126
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 162
+      width: 31
+      height: 32
+    spriteID: 3c1c4c0daa5f3d64794fe66b38fc1c29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 162}
+  - name: Movement_SpritePack_Frame_127
+    originalName: 
+    pivot: {x: 0.375, y: -1.076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 866
+      width: 32
+      height: 39
+    spriteID: 699d2501630eba948aad95c22064c735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 866}
+  - name: Movement_SpritePack_Frame_137
+    originalName: 
+    pivot: {x: 0.57142854, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 541
+      width: 49
+      height: 34
+    spriteID: d0fab478e6f26e64cab737b7793db7c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 541}
+  - name: Movement_SpritePack_Frame_138
+    originalName: 
+    pivot: {x: 0.6415094, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 129
+      width: 53
+      height: 33
+    spriteID: d0064cb8f90ad134fbe895672df19949
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 129}
+  - name: Movement_SpritePack_Frame_142
+    originalName: 
+    pivot: {x: 0.40000004, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 679
+      width: 30
+      height: 39
+    spriteID: 6f216313cf89e20488174a5f59a6dc07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 679}
+  - name: Movement_SpritePack_Frame_143
+    originalName: 
+    pivot: {x: 0.6, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 680
+      width: 40
+      height: 34
+    spriteID: c85fb95de9fe953418af66877190a32a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 680}
+  - name: Movement_SpritePack_Frame_144
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 965
+      width: 38
+      height: 35
+    spriteID: 83bb8fdfbf4955a4a8ca3ded5e289148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 965}
+  - name: Movement_SpritePack_Frame_145
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 38
+      height: 35
+    spriteID: f0f55a525183c6a4bb18156b160d7347
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 4}
+  - name: Movement_SpritePack_Frame_146
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 47
+      width: 38
+      height: 35
+    spriteID: 22791d434c347a74fbbf91b641604fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 47}
+  - name: Movement_SpritePack_Frame_147
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 90
+      width: 38
+      height: 35
+    spriteID: 27d68e7dba097c9409708d003ef11c7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 90}
+  - name: Movement_SpritePack_Frame_148
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 133
+      width: 38
+      height: 35
+    spriteID: 49692d5118535cc449e34d6686ef0296
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 133}
+  - name: Movement_SpritePack_Frame_149
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 4
+      width: 36
+      height: 34
+    spriteID: d2feba188a2c0b8458e79d967de81d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 4}
+  - name: Movement_SpritePack_Frame_150
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 766
+      width: 38
+      height: 34
+    spriteID: d6d6abfc5f496244f983ee898a3d6509
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 766}
+  - name: Movement_SpritePack_Frame_151
+    originalName: 
+    pivot: {x: 0.5897436, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 533
+      width: 39
+      height: 35
+    spriteID: 3e0163f07298dd14caec29710cd6600c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 533}
+  - name: Movement_SpritePack_Frame_152
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 176
+      width: 38
+      height: 35
+    spriteID: 2429fc46e3ccf4b49ae9da2f7102fa66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 176}
+  - name: Movement_SpritePack_Frame_153
+    originalName: 
+    pivot: {x: 0.5555556, y: -1.4117649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 46
+      width: 36
+      height: 34
+    spriteID: cace30d07bab11d4f9a7b9ca76df989d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 46}
+  - name: Movement_SpritePack_Frame_159
+    originalName: 
+    pivot: {x: 0.64444447, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 50
+      width: 45
+      height: 35
+    spriteID: 60ec9aa7a283c1447a895d1fe11173de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 50}
+  - name: Movement_SpritePack_Frame_160
+    originalName: 
+    pivot: {x: 0.48387095, y: -1.2051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 335
+      width: 31
+      height: 39
+    spriteID: cc13e473b6d2dcc49a24e6501389bde2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 335}
+  - name: Movement_SpritePack_Frame_169
+    originalName: 
+    pivot: {x: 0.7735849, y: -1.7037038}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 249
+      width: 53
+      height: 27
+    spriteID: 3b32d01da9564024795ec3a57e1da10a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 249}
+  - name: Movement_SpritePack_Frame_170
+    originalName: 
+    pivot: {x: 0.8297872, y: -1.6785715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 4
+      width: 47
+      height: 28
+    spriteID: c29ac462d5410f24b940a4793bafe6fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 4}
+  - name: Movement_SpritePack_Frame_171
+    originalName: 
+    pivot: {x: 0.7380952, y: -1.3714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 983
+      width: 42
+      height: 35
+    spriteID: 8887c03014852ef47a5d6aff9f4d5b2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 983}
+  - name: Movement_SpritePack_Frame_43
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 591
+      width: 27
+      height: 40
+    spriteID: a7115188abcb9d545a3630e3ef762a01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 591}
+  - name: Movement_SpritePack_Frame_45
+    originalName: 
+    pivot: {x: 0.47058824, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 808
+      width: 34
+      height: 38
+    spriteID: 1080ea97aa202324592baa7620d12c2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 808}
+  - name: Movement_SpritePack_Frame_47
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 639
+      width: 27
+      height: 40
+    spriteID: 000f4c232e992ce4f9628a64981a94b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 639}
+  - name: Movement_SpritePack_Frame_49
+    originalName: 
+    pivot: {x: 0.47058824, y: -1.263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 854
+      width: 34
+      height: 38
+    spriteID: f7f8284b25c268147ab9c6ca22ecaa23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 854}
+  - name: Movement_SpritePack_Frame_60
+    originalName: 
+    pivot: {x: 0.5897436, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 648
+      width: 39
+      height: 39
+    spriteID: d4cdec5a92b19ab48b000637ab417a6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 648}
+  - name: Movement_SpritePack_Frame_61
+    originalName: 
+    pivot: {x: 0.5675676, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 202
+      width: 37
+      height: 39
+    spriteID: 0ad8379a8d941e84988b07ad5b476923
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 202}
+  - name: Movement_SpritePack_Frame_69
+    originalName: 
+    pivot: {x: 0.4074074, y: -1.2307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 781
+      width: 27
+      height: 39
+    spriteID: 172920f60ed93c243b9adcc746956bb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 781}
+  - name: Movement_SpritePack_Frame_70
+    originalName: 
+    pivot: {x: 0.45454547, y: -1.2051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 416
+      width: 33
+      height: 39
+    spriteID: 2c922c22eba5edc46ad4f601e1021024
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 416}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -189884708
+    name: Movement_SpritePack
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Movement_SpritePack_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 48
+        y: 45
+        width: 35
+        height: 43
+      spriteId: 4bc61819d3cb6484f8fd95495c6d983e
+    - name: Movement_SpritePack_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 46
+        y: 45
+        width: 37
+        height: 42
+      spriteId: aaa26155eb57df546b103bcd5ed3bfb7
+    - name: Movement_SpritePack_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 53
+        y: 45
+        width: 31
+        height: 44
+      spriteId: a515897cc7a9955468499dfb0a0806f3
+    - name: Movement_SpritePack_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 53
+        y: 45
+        width: 29
+        height: 46
+      spriteId: 32e78cc2243db7e4885a9801b0bdf9cc
+    - name: Movement_SpritePack_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 53
+        y: 45
+        width: 30
+        height: 46
+      spriteId: 540979286bad76244befd9b570a1dec0
+    - name: Movement_SpritePack_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: ae08b0f7f995c6144a2247aa7f9fc314
+    - name: Movement_SpritePack_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 53
+        y: 48
+        width: 30
+        height: 42
+      spriteId: 18bd2e431bf9a654b94e3b8cc20e29e1
+    - name: Movement_SpritePack_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 52
+        y: 48
+        width: 30
+        height: 42
+      spriteId: d6a5e21b7a278ff41816604137a7ef5e
+    - name: Movement_SpritePack_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 55
+        y: 48
+        width: 27
+        height: 43
+      spriteId: 09359ec923c7b1a44ad8b081b494b319
+    - name: Movement_SpritePack_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 54
+        y: 48
+        width: 28
+        height: 43
+      spriteId: 9e891c2d12aaf2649ab5a99bda9505bb
+    - name: Movement_SpritePack_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 53
+        y: 48
+        width: 30
+        height: 43
+      spriteId: 72aa7b9be4fef734291add67b7919f3b
+    - name: Movement_SpritePack_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: 8f5fb3c1f07b50145a53b0b3cf5b5024
+    - name: Movement_SpritePack_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 53
+        y: 48
+        width: 30
+        height: 42
+      spriteId: 5cb694ced00f81945a716b095dc80dfa
+    - name: Movement_SpritePack_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 55
+        y: 48
+        width: 36
+        height: 42
+      spriteId: ffb9e63b2a1a9d24ba81fca59d37d821
+    - name: Movement_SpritePack_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 55
+        y: 48
+        width: 39
+        height: 42
+      spriteId: 8ec0bd910d84c1042b5e22e1ae6841a0
+    - name: Movement_SpritePack_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 55
+        y: 48
+        width: 39
+        height: 41
+      spriteId: 1585f4871dcad3649a65ca9a9da3587c
+    - name: Movement_SpritePack_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 55
+        y: 48
+        width: 36
+        height: 41
+      spriteId: bbbc64c1093f97f4b81c248183b86736
+    - name: Movement_SpritePack_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 54
+        y: 48
+        width: 38
+        height: 41
+      spriteId: f756c2839dcca00478821b40721e015a
+    - name: Movement_SpritePack_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 54
+        y: 48
+        width: 37
+        height: 42
+      spriteId: f54a18693a0225a438036a8480793296
+    - name: Movement_SpritePack_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 54
+        y: 48
+        width: 34
+        height: 43
+      spriteId: 8693d8fd3a015d349a5aec8587e960bf
+    - name: Movement_SpritePack_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 53
+        y: 48
+        width: 32
+        height: 43
+      spriteId: 44a4ef90633d1f54bad4b4e96be1ef98
+    - name: Movement_SpritePack_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 53
+        y: 48
+        width: 32
+        height: 43
+      spriteId: 97f24c061179bbe4aaf1adf9c26a1a38
+    - name: Movement_SpritePack_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 53
+        y: 48
+        width: 32
+        height: 42
+      spriteId: 8268bd7fd67964348978b891042c8f01
+    - name: Movement_SpritePack_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 53
+        y: 48
+        width: 32
+        height: 41
+      spriteId: a89aa8263a0ddb042ac2b088d1b1d195
+    - name: Movement_SpritePack_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 53
+        y: 48
+        width: 31
+        height: 40
+      spriteId: 9dcf95606c274a14daf4dacab657c4de
+    - name: Movement_SpritePack_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 54
+        y: 48
+        width: 31
+        height: 40
+      spriteId: 6d1f719dffe972448a496083b622ad47
+    - name: Movement_SpritePack_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 55
+        y: 48
+        width: 33
+        height: 41
+      spriteId: c30e52995392a9e4b939fb8e22054a03
+    - name: Movement_SpritePack_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 56
+        y: 48
+        width: 39
+        height: 42
+      spriteId: 44ca0b2cbad2b7349a64ed758e9db455
+    - name: Movement_SpritePack_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 56
+        y: 48
+        width: 40
+        height: 43
+      spriteId: 6601b5dfc3d29a94eb0841f6556e18b5
+    - name: Movement_SpritePack_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 56
+        y: 48
+        width: 40
+        height: 43
+      spriteId: e61ca38b547b12546a7f98d49bf156ec
+    - name: Movement_SpritePack_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 56
+        y: 48
+        width: 38
+        height: 43
+      spriteId: dfbedc0a957686d4f9c3f88ad86f567c
+    - name: Movement_SpritePack_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 55
+        y: 48
+        width: 40
+        height: 42
+      spriteId: c91b1eeda3c2cfb45a719eed75b6311e
+    - name: Movement_SpritePack_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 56
+        y: 48
+        width: 41
+        height: 42
+      spriteId: 0271be75f0a22eb45a08ddfa6725fc74
+    - name: Movement_SpritePack_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 57
+        y: 48
+        width: 37
+        height: 42
+      spriteId: 28355c9991c39b841ad12f5ed28bc948
+    - name: Movement_SpritePack_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: d1e4b50dd27dc8b4d8c196e111633f9c
+    - name: Movement_SpritePack_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: 9d415603f115be54f911bb3e263a86df
+    - name: Movement_SpritePack_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 54
+        y: 48
+        width: 29
+        height: 41
+      spriteId: 275e50fecbb98a04c959caa4b764ca30
+    - name: Movement_SpritePack_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 54
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 201f80779da12d54986e1853b20d49eb
+    - name: Movement_SpritePack_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 47
+        y: 50
+        width: 42
+        height: 37
+      spriteId: bcd2cab5bdf4ccb4583fbe64ba06c378
+    - name: Movement_SpritePack_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 50
+        y: 48
+        width: 39
+        height: 38
+      spriteId: c46905130d116734cb2a4c4f8998b261
+    - name: Movement_SpritePack_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 51
+        y: 48
+        width: 37
+        height: 37
+      spriteId: 913143ef8abe2224ab1cf6c8cb72cd7d
+    - name: Movement_SpritePack_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 52
+        y: 48
+        width: 35
+        height: 37
+      spriteId: deabe3f79af0e1d4f835a6b6e68b8558
+    - name: Movement_SpritePack_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 49
+        y: 50
+        width: 39
+        height: 37
+      spriteId: fbe52f70b0201aa4ea33bb641e4e3412
+    - name: Movement_SpritePack_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 49
+        y: 48
+        width: 38
+        height: 39
+      spriteId: 7e7b100e58d1572439508ea7937076d1
+    - name: Movement_SpritePack_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 47
+        y: 48
+        width: 41
+        height: 38
+      spriteId: 0294a2a9359c5cb469d929599639a254
+    - name: Movement_SpritePack_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 47
+        y: 48
+        width: 41
+        height: 38
+      spriteId: 004bd7597f4f9e84ead7623d6fbe5b32
+    - name: Movement_SpritePack_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 56
+        y: 48
+        width: 30
+        height: 39
+      spriteId: b0ad6c23bc2f6674c93916af4308d66c
+    - name: Movement_SpritePack_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 52
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 5a3170d66c2d96140abf6ad01383d177
+    - name: Movement_SpritePack_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 52
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 6026f33dda2cbef41afc1e766fb4a8cd
+    - name: Movement_SpritePack_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 49
+        y: 48
+        width: 31
+        height: 39
+      spriteId: 00c028b90da8953459b494ad22fcab2b
+    - name: Movement_SpritePack_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 49
+        y: 50
+        width: 32
+        height: 37
+      spriteId: 451b2c22240a3a44ea17281cac037d48
+    - name: Movement_SpritePack_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 51
+        y: 48
+        width: 30
+        height: 38
+      spriteId: d6b0df3b8820dff4aba205f008ee7bd5
+    - name: Movement_SpritePack_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 52
+        y: 48
+        width: 30
+        height: 37
+      spriteId: 73e9b37eb4926a84a91a93a830a3a94a
+    - name: Movement_SpritePack_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 52
+        y: 48
+        width: 30
+        height: 37
+      spriteId: 6e714f34f6f6f8f4a9eed09e0a912913
+    - name: Movement_SpritePack_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 50
+        y: 50
+        width: 32
+        height: 37
+      spriteId: 1903557cb0a1e8e4f9b43eb8940e6720
+    - name: Movement_SpritePack_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 50
+        y: 48
+        width: 31
+        height: 39
+      spriteId: 09d829d1005d1764c932afc2094cd8fa
+    - name: Movement_SpritePack_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 53
+        y: 48
+        width: 27
+        height: 38
+      spriteId: 17fb385ea966553458f48f377fd21151
+    - name: Movement_SpritePack_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 49
+        y: 48
+        width: 29
+        height: 38
+      spriteId: 864a453d7df8fcb4bb46c6f6cec9db36
+    - name: Movement_SpritePack_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 47
+        y: 50
+        width: 32
+        height: 37
+      spriteId: 6d3124e89bdce6940a220eadd2650222
+    - name: Movement_SpritePack_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 46
+        y: 48
+        width: 35
+        height: 40
+      spriteId: 06717c9b0a14f514797923e4723efb9b
+    - name: Movement_SpritePack_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 51
+        y: 48
+        width: 31
+        height: 39
+      spriteId: 1a5688337119d7644ade415952a262fc
+    - name: Movement_SpritePack_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 51
+        y: 48
+        width: 30
+        height: 38
+      spriteId: f07019d5b36c3264bacc1ba9b1c03928
+    - name: Movement_SpritePack_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 54
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 93500b9066185784480810df293ecd54
+    - name: Movement_SpritePack_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 55
+        y: 48
+        width: 31
+        height: 39
+      spriteId: 7b9bccaf292713b4588ebbc75fb48177
+    - name: Movement_SpritePack_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 52
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 777465f3eb5cfc84a96737c2e6e7b4ad
+    - name: Movement_SpritePack_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 56
+        y: 47
+        width: 27
+        height: 41
+      spriteId: 117fa4c6f17885447af5b77135f2ecd9
+    - name: Movement_SpritePack_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: 55cda2bdff247d24cac9a874d4a0aac7
+    - name: Movement_SpritePack_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 53
+        y: 47
+        width: 29
+        height: 45
+      spriteId: e8f66b3901e81f44595ed6e3ad8fe460
+    - name: Movement_SpritePack_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 54
+        y: 50
+        width: 28
+        height: 42
+      spriteId: ec88e194387c62849a335936185b3b0b
+    - name: Movement_SpritePack_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 54
+        y: 50
+        width: 28
+        height: 42
+      spriteId: 348c181549668d14c89862c3cca3331c
+    - name: Movement_SpritePack_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 54
+        y: 50
+        width: 28
+        height: 42
+      spriteId: 3d6c29b65fd85594ea33dd98a4c3b12f
+    - name: Movement_SpritePack_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 53
+        y: 49
+        width: 29
+        height: 43
+      spriteId: 44b8c37d063ca094d8119307d9eb53de
+    - name: Movement_SpritePack_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 52
+        y: 49
+        width: 31
+        height: 44
+      spriteId: 2f0b5e41a870b934f8bee65c3accd06b
+    - name: Movement_SpritePack_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 47
+        y: 49
+        width: 37
+        height: 44
+      spriteId: 06fc08ec54d3c6f4cbfbc132eb7e8505
+    - name: Movement_SpritePack_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 49
+        y: 49
+        width: 35
+        height: 45
+      spriteId: 3e85c794eb9cbee46a940977fa11e032
+    - name: Movement_SpritePack_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 49
+        y: 49
+        width: 35
+        height: 45
+      spriteId: fc1ef6bf6cc4e2f4589f445b04c3c7d7
+    - name: Movement_SpritePack_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 49
+        y: 49
+        width: 35
+        height: 44
+      spriteId: 85a026fefe3561c46b4f4edbaed0905e
+    - name: Movement_SpritePack_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 54
+        y: 48
+        width: 33
+        height: 39
+      spriteId: aeeb92da36c1b724288e3cc1a38cdab6
+    - name: Movement_SpritePack_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 56
+        y: 47
+        width: 31
+        height: 41
+      spriteId: c1682114dbd66584cbd8db1a2b517f43
+    - name: Movement_SpritePack_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 50
+        y: 49
+        width: 35
+        height: 38
+      spriteId: 4d3243f1a0a38e34abeb6dc3c46f1cdc
+    - name: Movement_SpritePack_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 38
+        y: 47
+        width: 40
+        height: 39
+      spriteId: c6242e6c7ccf0ad4b97fc4b40161a7ab
+    - name: Movement_SpritePack_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 44
+        y: 51
+        width: 37
+        height: 36
+      spriteId: 60b87262eb1961d4e9c25c8dab7efb0c
+    - name: Movement_SpritePack_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 40
+      spriteId: b3e1aec1407cb9c4684a185e5d60e7d5
+    - name: Movement_SpritePack_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: b6411f0d248c872429da064c16b1c014
+    - name: Movement_SpritePack_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: 7bea24d2f9151c5458e9fc6b94d9c85d
+    - name: Movement_SpritePack_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: 8e770d5f510264540a32f6d96d59cdb9
+    - name: Movement_SpritePack_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: f7cc2458f9216e5498724953fc605160
+    - name: Movement_SpritePack_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: ac1d2a078e6353b4d906b30e536c1d18
+    - name: Movement_SpritePack_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 57
+        y: 51
+        width: 31
+        height: 33
+      spriteId: bc91bc9b0de4b944a8a325d49bbd386d
+    - name: Movement_SpritePack_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 58
+        y: 52
+        width: 30
+        height: 31
+      spriteId: a0aeb72047fbb8646b2ca2603019fb9a
+    - name: Movement_SpritePack_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 58
+        y: 48
+        width: 29
+        height: 30
+      spriteId: 9606776ad4188b046b27c88235538cc3
+    - name: Movement_SpritePack_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 50
+        y: 48
+        width: 34
+        height: 27
+      spriteId: 4c4d1e20d005460418dbd46bcf9c8973
+    - name: Movement_SpritePack_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 39
+        y: 48
+        width: 45
+        height: 28
+      spriteId: 8f6d8d993ab9cd645ad0eb25248ceafe
+    - name: Movement_SpritePack_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 40
+        y: 45
+        width: 44
+        height: 29
+      spriteId: 885165e20e32f514daec092b29bb8467
+    - name: Movement_SpritePack_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 48
+        y: 47
+        width: 36
+        height: 30
+      spriteId: 96b5351d23fd9d74ea4acc460137ebf5
+    - name: Movement_SpritePack_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 55
+        y: 46
+        width: 25
+        height: 28
+      spriteId: a237cb1c2b8bfac4ab70dd780dd52a9d
+    - name: Movement_SpritePack_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 53
+        y: 45
+        width: 28
+        height: 25
+      spriteId: a1154e990c759ef47b69b2f1f869f07b
+    - name: Movement_SpritePack_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 50
+        y: 42
+        width: 32
+        height: 27
+      spriteId: a1799e8508b1ece43b066d6797ad6d93
+    - name: Movement_SpritePack_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 53
+        y: 41
+        width: 27
+        height: 33
+      spriteId: 05a5580cfb782ff448c783d7fa63ab1a
+    - name: Movement_SpritePack_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 53
+        y: 42
+        width: 27
+        height: 39
+      spriteId: 52f576b7f4a848d43ba9f37f5e0a9745
+    - name: Movement_SpritePack_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 55
+        y: 46
+        width: 28
+        height: 40
+      spriteId: 596bdf2ea0e182846bc6c1db97f7f9cc
+    - name: Movement_SpritePack_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 53
+        y: 48
+        width: 30
+        height: 43
+      spriteId: 56bdc188e9a3b2b43a2612a02f523c05
+    - name: Movement_SpritePack_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: 2c817b480935dbe48a6e982d7e4b2088
+    - name: Movement_SpritePack_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 55
+        y: 46
+        width: 28
+        height: 40
+      spriteId: c078e311dbd404044a226673c2a8e4d5
+    - name: Movement_SpritePack_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 55
+        y: 47
+        width: 28
+        height: 33
+      spriteId: 2e9d0568383adf74aba18da3b6604a29
+    - name: Movement_SpritePack_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 55
+        y: 46
+        width: 28
+        height: 40
+      spriteId: 90c15d23afba3764495a1145323a219d
+    - name: Movement_SpritePack_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: dbcf95e00a319464292b784fcb7e0a74
+    - name: Movement_SpritePack_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 54
+        y: 48
+        width: 33
+        height: 39
+      spriteId: f29fc724a3173cf4e885ba49aad35099
+    - name: Movement_SpritePack_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 37
+        y: 48
+        width: 50
+        height: 35
+      spriteId: e31d13ec07278ab46aac75b76f1371f8
+    - name: Movement_SpritePack_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 38
+        y: 48
+        width: 49
+        height: 32
+      spriteId: 5ee13cf99c2a9ec4d8b7bac17cd9f367
+    - name: Movement_SpritePack_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 38
+        y: 48
+        width: 49
+        height: 33
+      spriteId: 083704ef9033e974f88974d26d4a34b7
+    - name: Movement_SpritePack_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 38
+        y: 48
+        width: 49
+        height: 32
+      spriteId: 1cc52ca9150345449b705f0a4d27e0b0
+    - name: Movement_SpritePack_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 34
+        y: 48
+        width: 48
+        height: 32
+      spriteId: 01d7249f215fe764db9a68a17bfd37c2
+    - name: Movement_SpritePack_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 34
+        y: 48
+        width: 52
+        height: 34
+      spriteId: 98085e64f7576c24ba5d3245d24b999b
+    - name: Movement_SpritePack_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 30
+        y: 48
+        width: 52
+        height: 33
+      spriteId: ab787de2c33667545986756f3f317707
+    - name: Movement_SpritePack_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 40
+        y: 48
+        width: 41
+        height: 37
+      spriteId: 477eab0c8a929a449aeed84a29e25961
+    - name: Movement_SpritePack_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 52
+        y: 48
+        width: 31
+        height: 42
+      spriteId: e9ff99ef954826942a139ce0ab17ab09
+    - name: Movement_SpritePack_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 30
+        y: 47
+        width: 50
+        height: 34
+      spriteId: 597cf5a277c30ad4fbb2ae67061b9687
+    - name: Movement_SpritePack_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 31
+        y: 47
+        width: 49
+        height: 38
+      spriteId: 8a31d5037998e174b8995861d2bf1b79
+    - name: Movement_SpritePack_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 33
+        y: 47
+        width: 47
+        height: 36
+      spriteId: 5b5bf004024ffa348ba9a3001569869a
+    - name: Movement_SpritePack_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 32
+        y: 47
+        width: 48
+        height: 33
+      spriteId: dc08418d7126b1344a506f650f08d910
+    - name: Movement_SpritePack_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 31
+        y: 47
+        width: 49
+        height: 34
+      spriteId: 4f365648881d51646af2e23efa0926c1
+    - name: Movement_SpritePack_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 56
+        y: 47
+        width: 27
+        height: 41
+      spriteId: 59a70323090745048b77522d6277c743
+    - name: Movement_SpritePack_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 54
+        y: 48
+        width: 33
+        height: 39
+      spriteId: 30967e2c669661c488650386d8034c1a
+    - name: Movement_SpritePack_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 45
+        y: 48
+        width: 31
+        height: 30
+      spriteId: 3ec6430d98d0e0340a526d444c37afab
+    - name: Movement_SpritePack_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 41
+        y: 41
+        width: 38
+        height: 33
+      spriteId: 93611a988051da94ca151c606ca9893b
+    - name: Movement_SpritePack_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 26
+        y: 40
+        width: 57
+        height: 32
+      spriteId: e64c4c1da8fffcc47ac89150adf17ec4
+    - name: Movement_SpritePack_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 21
+        y: 47
+        width: 59
+        height: 25
+      spriteId: a0e2f52abb8c7c540b21332997b04df6
+    - name: Movement_SpritePack_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 20
+        y: 47
+        width: 60
+        height: 27
+      spriteId: a16f092f7d51bf04a96d417c71de1d6f
+    - name: Movement_SpritePack_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 21
+        y: 47
+        width: 59
+        height: 26
+      spriteId: a65cced674b466f48859e96e41520a2c
+    - name: Movement_SpritePack_Frame_172
+      frameIndex: 172
+      cellRect:
+        x: 50
+        y: 48
+        width: 32
+        height: 39
+      spriteId: 70cfdfe0193e2764a8ef1107941228b6
+    - name: Movement_SpritePack_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 53
+        y: 48
+        width: 29
+        height: 39
+      spriteId: 90ead0ecb9af1634ca6b6f1b78bd8e9f
+    - name: Movement_SpritePack_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 53
+        y: 48
+        width: 29
+        height: 39
+      spriteId: 8fe3bda0c82a61f4990cf154754979dd
+    - name: Movement_SpritePack_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 52
+        y: 48
+        width: 27
+        height: 39
+      spriteId: 0ddd7e3177dbfa54680608d6b4fa5630
+    - name: Movement_SpritePack_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 49
+        y: 47
+        width: 31
+        height: 39
+      spriteId: c6bcc653a79aef04bac2e2981bc29d8d
+    - name: Movement_SpritePack_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 56
+        y: 46
+        width: 42
+        height: 24
+      spriteId: 65578c062c533d8449109b6286f5d716
+    - name: Movement_SpritePack_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 56
+        y: 45
+        width: 38
+        height: 24
+      spriteId: f002ee9476dc29849b471b3676a54871
+    - name: Movement_SpritePack_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 55
+        y: 44
+        width: 31
+        height: 26
+      spriteId: f2111dc264c085c4db59fe5a8b520b9a
+    - name: Movement_SpritePack_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 56
+        y: 42
+        width: 33
+        height: 27
+      spriteId: 4717fbdbdf2a38f46befde1253654461
+    - name: Movement_SpritePack_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 50
+        y: 42
+        width: 34
+        height: 28
+      spriteId: d6cc74e3040c5444db81047dd4f47b0f
+    - name: Movement_SpritePack_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 46
+        y: 42
+        width: 39
+        height: 27
+      spriteId: 7f431a1f496ecb346a45847f2a19595d
+    - name: Movement_SpritePack_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 55
+        y: 41
+        width: 28
+        height: 31
+      spriteId: a5301686027d06547a1628e7af978141
+    - name: Movement_SpritePack_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 53
+        y: 45
+        width: 29
+        height: 34
+      spriteId: b7ad38b2752097a40887d3f0cf775d76
+    - name: Movement_SpritePack_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 52
+        y: 42
+        width: 36
+        height: 35
+      spriteId: 857f4e7ff00721a49b37b1ab3ff538dd
+    - name: Movement_SpritePack_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 51
+        y: 48
+        width: 31
+        height: 32
+      spriteId: 3c1c4c0daa5f3d64794fe66b38fc1c29
+    - name: Movement_SpritePack_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 52
+        y: 42
+        width: 32
+        height: 39
+      spriteId: 699d2501630eba948aad95c22064c735
+    - name: Movement_SpritePack_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 36
+        y: 48
+        width: 49
+        height: 34
+      spriteId: d0fab478e6f26e64cab737b7793db7c2
+    - name: Movement_SpritePack_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 30
+        y: 48
+        width: 53
+        height: 33
+      spriteId: d0064cb8f90ad134fbe895672df19949
+    - name: Movement_SpritePack_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 52
+        y: 48
+        width: 30
+        height: 39
+      spriteId: 6f216313cf89e20488174a5f59a6dc07
+    - name: Movement_SpritePack_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 40
+        y: 48
+        width: 40
+        height: 34
+      spriteId: c85fb95de9fe953418af66877190a32a
+    - name: Movement_SpritePack_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: 83bb8fdfbf4955a4a8ca3ded5e289148
+    - name: Movement_SpritePack_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: f0f55a525183c6a4bb18156b160d7347
+    - name: Movement_SpritePack_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: 22791d434c347a74fbbf91b641604fae
+    - name: Movement_SpritePack_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: 27d68e7dba097c9409708d003ef11c7c
+    - name: Movement_SpritePack_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: 49692d5118535cc449e34d6686ef0296
+    - name: Movement_SpritePack_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 44
+        y: 48
+        width: 36
+        height: 34
+      spriteId: d2feba188a2c0b8458e79d967de81d7e
+    - name: Movement_SpritePack_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 34
+      spriteId: d6d6abfc5f496244f983ee898a3d6509
+    - name: Movement_SpritePack_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 41
+        y: 48
+        width: 39
+        height: 35
+      spriteId: 3e0163f07298dd14caec29710cd6600c
+    - name: Movement_SpritePack_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 42
+        y: 48
+        width: 38
+        height: 35
+      spriteId: 2429fc46e3ccf4b49ae9da2f7102fa66
+    - name: Movement_SpritePack_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 44
+        y: 48
+        width: 36
+        height: 34
+      spriteId: cace30d07bab11d4f9a7b9ca76df989d
+    - name: Movement_SpritePack_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 35
+        y: 48
+        width: 45
+        height: 35
+      spriteId: 60ec9aa7a283c1447a895d1fe11173de
+    - name: Movement_SpritePack_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 49
+        y: 47
+        width: 31
+        height: 39
+      spriteId: cc13e473b6d2dcc49a24e6501389bde2
+    - name: Movement_SpritePack_Frame_169
+      frameIndex: 169
+      cellRect:
+        x: 23
+        y: 46
+        width: 53
+        height: 27
+      spriteId: 3b32d01da9564024795ec3a57e1da10a
+    - name: Movement_SpritePack_Frame_170
+      frameIndex: 170
+      cellRect:
+        x: 25
+        y: 47
+        width: 47
+        height: 28
+      spriteId: c29ac462d5410f24b940a4793bafe6fd
+    - name: Movement_SpritePack_Frame_171
+      frameIndex: 171
+      cellRect:
+        x: 33
+        y: 48
+        width: 42
+        height: 35
+      spriteId: 8887c03014852ef47a5d6aff9f4d5b2b
+    - name: Movement_SpritePack_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 52
+        y: 48
+        width: 27
+        height: 40
+      spriteId: a7115188abcb9d545a3630e3ef762a01
+    - name: Movement_SpritePack_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 48
+        y: 48
+        width: 34
+        height: 38
+      spriteId: 1080ea97aa202324592baa7620d12c2a
+    - name: Movement_SpritePack_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 52
+        y: 48
+        width: 27
+        height: 40
+      spriteId: 000f4c232e992ce4f9628a64981a94b5
+    - name: Movement_SpritePack_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 48
+        y: 48
+        width: 34
+        height: 38
+      spriteId: f7f8284b25c268147ab9c6ca22ecaa23
+    - name: Movement_SpritePack_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 41
+        y: 48
+        width: 39
+        height: 39
+      spriteId: d4cdec5a92b19ab48b000637ab417a6f
+    - name: Movement_SpritePack_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 43
+        y: 48
+        width: 37
+        height: 39
+      spriteId: 0ad8379a8d941e84988b07ad5b476923
+    - name: Movement_SpritePack_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 53
+        y: 48
+        width: 27
+        height: 39
+      spriteId: 172920f60ed93c243b9adcc746956bb0
+    - name: Movement_SpritePack_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 49
+        y: 47
+        width: 33
+        height: 39
+      spriteId: 2c922c22eba5edc46ad4f601e1021024
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 144}

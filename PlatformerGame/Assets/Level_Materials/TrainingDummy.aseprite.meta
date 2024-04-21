@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 2deaafdefd3cf934f938683f2c063e7b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Hit
+    second: {fileID: 7400000, guid: aa612ced6af12fc4daea9caf4afd6c7a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Idle
+    second: {fileID: 7400000, guid: 795a1c36cd7df59479987c6aaebfdca5, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Knockback
+    second: {fileID: 7400000, guid: 0f79b4fdf4a7ca44db9354cd6c20aac3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Slash
+    second: {fileID: 7400000, guid: 4d648c126c8071e44a753477140172f4, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Spin
+    second: {fileID: 7400000, guid: a0dbd0cd87fb44d489329d9a3b693a18, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 32
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638491726442142950
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: TrainingDummy_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 37
+      width: 26
+      height: 27
+    spriteID: 410d3de6896fb034dafa34e9cce60922
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 37}
+  - name: TrainingDummy_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 37
+      width: 26
+      height: 27
+    spriteID: bbec98bab1384e7489ccfecff442a41a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 37}
+  - name: TrainingDummy_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 30
+      height: 25
+    spriteID: 09e803ecc04f70242aeb73cdca1f6ea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: TrainingDummy_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 22
+      height: 29
+    spriteID: 4c8ed23f683affe4c917b24519fc7f8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: TrainingDummy_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 37
+      width: 26
+      height: 27
+    spriteID: 0452696ba4c45cb47ab9e1ea0428b840
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 37}
+  - name: TrainingDummy_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 37
+      width: 26
+      height: 28
+    spriteID: 0f63237c17b55e344b28a85e23bf306c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 37}
+  - name: TrainingDummy_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 37
+      width: 26
+      height: 27
+    spriteID: 18434d66e34e95e4ea4b50d166516906
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 37}
+  - name: TrainingDummy_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 37
+      width: 26
+      height: 27
+    spriteID: afacc9fd77c78be4d807f1b04474fa64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 37}
+  - name: TrainingDummy_Frame_8
+    originalName: 
+    pivot: {x: 0.15789473, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 108
+      width: 19
+      height: 28
+    spriteID: b6d20748587735f4494860410eac290a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 108}
+  - name: TrainingDummy_Frame_9
+    originalName: 
+    pivot: {x: 0.2, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 108
+      width: 20
+      height: 26
+    spriteID: dfe8d069d69ec7040ba465eedf92b7ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 108}
+  - name: TrainingDummy_Frame_10
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 108
+      width: 20
+      height: 27
+    spriteID: 3d83608fe08c06b4ebee5bbc81307e5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 108}
+  - name: TrainingDummy_Frame_11
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 4
+      width: 26
+      height: 24
+    spriteID: 525acd1fc829d734daa98248860017f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 4}
+  - name: TrainingDummy_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 37
+      width: 26
+      height: 27
+    spriteID: 37e1c3fcef078c04f82e38fce3cb8e3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 37}
+  - name: TrainingDummy_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 73
+      width: 26
+      height: 27
+    spriteID: 9d9c1d206a47d574a8ddfe165c23fd57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 73}
+  - name: TrainingDummy_Frame_14
+    originalName: 
+    pivot: {x: 0.4814815, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 27
+      height: 23
+    spriteID: 5d96409f44a7f774e9a15438a569b3f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: TrainingDummy_Frame_15
+    originalName: 
+    pivot: {x: 0.3888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 108
+      width: 18
+      height: 25
+    spriteID: fced23a2173fc4241bc03886b56c5e0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 108}
+  - name: TrainingDummy_Frame_16
+    originalName: 
+    pivot: {x: 0.26666668, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 15
+      height: 25
+    spriteID: 1c6e36081a7a1cd45b00bef22a6610b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: TrainingDummy_Frame_17
+    originalName: 
+    pivot: {x: 0.31578946, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 108
+      width: 19
+      height: 26
+    spriteID: 7e538573f8e053a4f95e513b88f38739
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 108}
+  - name: TrainingDummy_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 73
+      width: 24
+      height: 27
+    spriteID: b3fb6222a0680d8488c6c0ce4e62bffb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 73}
+  - name: TrainingDummy_Frame_19
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 108
+      width: 20
+      height: 27
+    spriteID: 60f6b388e01510c4ca65a510a5de2699
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 108}
+  - name: TrainingDummy_Frame_20
+    originalName: 
+    pivot: {x: 0.6875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 16
+      height: 27
+    spriteID: a99a5c453b493a94098c28fc35211aa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 145}
+  - name: TrainingDummy_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 73
+      width: 26
+      height: 27
+    spriteID: ffe647428aee0784f8c5e157f00e711c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 73}
+  - name: TrainingDummy_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 73
+      width: 26
+      height: 27
+    spriteID: b497b0b98f445f149ad1a691d4ca6ebe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 73}
+  - name: TrainingDummy_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 73
+      width: 26
+      height: 27
+    spriteID: 29ee453a377a98f418fca38272b35a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 73}
+  - name: TrainingDummy_Frame_24
+    originalName: 
+    pivot: {x: 0.6875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 145
+      width: 16
+      height: 27
+    spriteID: 0e8bca70c4c62134aaba229d6ac5681e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 145}
+  - name: TrainingDummy_Frame_25
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 108
+      width: 20
+      height: 27
+    spriteID: ed0f80d5d0015364da1afd36dc514b0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 108}
+  - name: TrainingDummy_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 73
+      width: 24
+      height: 27
+    spriteID: 873a9e3c01308be408d576896463c81d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 73}
+  - name: TrainingDummy_Frame_27
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 108
+      width: 20
+      height: 27
+    spriteID: a676594952cada54a9eadf7e4a271413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 108}
+  - name: TrainingDummy_Frame_28
+    originalName: 
+    pivot: {x: 0.6875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 145
+      width: 16
+      height: 27
+    spriteID: 7a3f8bf0174acb143942c85f60c52421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 145}
+  - name: TrainingDummy_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 73
+      width: 26
+      height: 27
+    spriteID: 6b9771a28a4f2f94991735147e80d2c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 73}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2125656904
+    name: TrainingDummy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: TrainingDummy_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 410d3de6896fb034dafa34e9cce60922
+    - name: TrainingDummy_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: bbec98bab1384e7489ccfecff442a41a
+    - name: TrainingDummy_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 0
+        width: 30
+        height: 25
+      spriteId: 09e803ecc04f70242aeb73cdca1f6ea7
+    - name: TrainingDummy_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 0
+        width: 22
+        height: 29
+      spriteId: 4c8ed23f683affe4c917b24519fc7f8d
+    - name: TrainingDummy_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 0452696ba4c45cb47ab9e1ea0428b840
+    - name: TrainingDummy_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 28
+      spriteId: 0f63237c17b55e344b28a85e23bf306c
+    - name: TrainingDummy_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 18434d66e34e95e4ea4b50d166516906
+    - name: TrainingDummy_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: afacc9fd77c78be4d807f1b04474fa64
+    - name: TrainingDummy_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 13
+        y: 0
+        width: 19
+        height: 28
+      spriteId: b6d20748587735f4494860410eac290a
+    - name: TrainingDummy_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 12
+        y: 0
+        width: 20
+        height: 26
+      spriteId: dfe8d069d69ec7040ba465eedf92b7ab
+    - name: TrainingDummy_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 0
+        width: 20
+        height: 27
+      spriteId: 3d83608fe08c06b4ebee5bbc81307e5d
+    - name: TrainingDummy_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 2
+        y: 0
+        width: 26
+        height: 24
+      spriteId: 525acd1fc829d734daa98248860017f8
+    - name: TrainingDummy_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 37e1c3fcef078c04f82e38fce3cb8e3d
+    - name: TrainingDummy_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 9d9c1d206a47d574a8ddfe165c23fd57
+    - name: TrainingDummy_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 3
+        y: 0
+        width: 27
+        height: 23
+      spriteId: 5d96409f44a7f774e9a15438a569b3f2
+    - name: TrainingDummy_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 0
+        width: 18
+        height: 25
+      spriteId: fced23a2173fc4241bc03886b56c5e0c
+    - name: TrainingDummy_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 12
+        y: 0
+        width: 15
+        height: 25
+      spriteId: 1c6e36081a7a1cd45b00bef22a6610b5
+    - name: TrainingDummy_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 0
+        width: 19
+        height: 26
+      spriteId: 7e538573f8e053a4f95e513b88f38739
+    - name: TrainingDummy_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 4
+        y: 0
+        width: 24
+        height: 27
+      spriteId: b3fb6222a0680d8488c6c0ce4e62bffb
+    - name: TrainingDummy_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 4
+        y: 0
+        width: 20
+        height: 27
+      spriteId: 60f6b388e01510c4ca65a510a5de2699
+    - name: TrainingDummy_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 0
+        width: 16
+        height: 27
+      spriteId: a99a5c453b493a94098c28fc35211aa6
+    - name: TrainingDummy_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: ffe647428aee0784f8c5e157f00e711c
+    - name: TrainingDummy_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: b497b0b98f445f149ad1a691d4ca6ebe
+    - name: TrainingDummy_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 29ee453a377a98f418fca38272b35a81
+    - name: TrainingDummy_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 5
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 0e8bca70c4c62134aaba229d6ac5681e
+    - name: TrainingDummy_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 4
+        y: 0
+        width: 20
+        height: 27
+      spriteId: ed0f80d5d0015364da1afd36dc514b0c
+    - name: TrainingDummy_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 4
+        y: 0
+        width: 24
+        height: 27
+      spriteId: 873a9e3c01308be408d576896463c81d
+    - name: TrainingDummy_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 4
+        y: 0
+        width: 20
+        height: 27
+      spriteId: a676594952cada54a9eadf7e4a271413
+    - name: TrainingDummy_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 5
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 7a3f8bf0174acb143942c85f60c52421
+    - name: TrainingDummy_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 3
+        y: 0
+        width: 26
+        height: 27
+      spriteId: 6b9771a28a4f2f94991735147e80d2c7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
