@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8c04126-3c0c-4052-aa5f-044ffe81fdbd)# 🎮 2D Player Controller for Unity
+# 🎮 2D Player Controller for Unity
 
 This repository contains a modular and extendable 2D Player Controller system built in Unity. It includes support for smooth movement, a state-based controller, and combat functionality with animations and sprite setup.
 
