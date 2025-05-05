@@ -54,14 +54,11 @@ Player/
    - `PlayerStateController`
 3. Link the `PlayerAnimationController_.controller` to the Animator.
 4. Add animations and configure transitions inside the Animator.
-5. Customize as needed!
 
 ---
 
 ## 📌 Notes
 
-- Built with Unity’s classic input system.
-- Designed for modularity — each script handles a specific piece of player behavior.
 - Sprite and animation files are provided as working references, not final art.
 
 ---
